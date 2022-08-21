@@ -1,0 +1,31 @@
+{
+    "name": "wellpaid",
+    "version": "1.0.0",
+    "description": "��#\u0000 \u0000W\u0000e\u0000l\u0000l\u0000P\u0000a\u0000i\u0000d\u0000\r\u0000 \u0000",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hrushikesh430/WellPaid.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hrushikesh430/WellPaid/issues"
+    },
+    "homepage": "https://github.com/hrushikesh430/WellPaid#readme",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "dotenv": "^16.0.1",
+        "ejs": "^3.1.8",
+        "ejs-layouts": "^0.0.1",
+        "express": "^4.18.1",
+        "express-ejs-layouts": "^2.5.1",
+        "mongoose": "^6.5.2",
+        "nodemon": "^2.0.19"
+    }
+}
